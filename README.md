@@ -10,10 +10,7 @@ UX Design: User research, wireframing, prototyping, user testing
 Tools & Frameworks:JIRA, Bitbucket,Figma,Git
 
 Get in Touch
-
-LinkedIn: www.linkedin.com/in/kirti-yelavikar
 Twitter: https://x.com/Dev_Keya_
-Email: www.linkedin.com/in/kirti-yelavikar
 
 Thanks for stopping by my GitHub profile! 😊
 
