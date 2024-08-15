@@ -1,10 +1,9 @@
 Hi there! I'm Kirti, you can find me as @Dev-Keya here on GitHub! 👋
 
-About Me
+🌻About Me </br>
 I turn code into magic (or at least something that looks like it). React is my wand, UX is my spellbook. Let's make the internet less boring.
 
-Skills
-
+🧑‍💻 Skills</br>
 Frontend Tech: JavaScript, React, TypeScript, HTML, CSS, SASS
 UX Design: User research, wireframing, prototyping, user testing
 Tools & Frameworks:JIRA, Bitbucket,Figma,Git
