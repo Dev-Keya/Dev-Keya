@@ -8,8 +8,7 @@ Frontend Tech: JavaScript, React, TypeScript, HTML, CSS, SASS
 UX Design: User research, wireframing, prototyping, user testing
 Tools & Frameworks:JIRA, Bitbucket,Figma,Git
 
-Get in Touch
-Twitter: https://x.com/Dev_Keya_
+
 
 Thanks for stopping by my GitHub profile! 😊
 
